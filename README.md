@@ -117,7 +117,7 @@ This simulation demonstrates:
 If you use this code for educational purposes, please reference:
 ```
 Survival Analysis Simulation: Exponential Distribution with Censoring
-GitHub: [your-username]/survival-analysis-simulation
+GitHub: [https://github.com/VikashDu/Exponential-Survival-Data-with-Censoring]
 ```
 
 ## License
