@@ -39,13 +39,12 @@ Based on the simulation with seed 123:
 ```
 survival-analysis-simulation/
 │
-├── README.md               # This file
+├── README.md              
+├── km_curves_base.png    #Plots
+├── schoenfeld_residuals.png
 ├── simulation_code.R       # Main simulation script
-├── output/
-│   ├── simulation_output.txt    # Console output
-│   └── plots/                   # Generated plots (if saved)
-└── docs/
-    └── simulation_guide.md      # Detailed exercise instructions
+├── simulation_output.txt    # Console output
+└── simulation_guide.pdf      # Detailed exercise instructions
 ```
 
 ## Requirements
